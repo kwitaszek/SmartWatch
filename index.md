@@ -1,5 +1,6 @@
+September 24th:
 
-September 17th: The Estiamte Project Schedule for the Smart Watch project has been uploaded to the github page:
+September 17th: The Estimate Project Schedule for the Smart Watch project has been uploaded to the github page:
 
              For CENG317:https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/CENG317_Smart_Watch_Schedule.gan
              For CENG355:https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/CENG355_Smart_watch_Schedule.gan
