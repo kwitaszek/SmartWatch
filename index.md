@@ -1,4 +1,6 @@
-September 24th:
+September 25th: Today, I have met with our collaborator for the project and have finalized the parts that will be used in the                 project. The following list contains those parts and include their pricing:
+  
+                https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/SmartWatchBugdet.xlsx
 
 September 17th: The Estimate Project Schedule for the Smart Watch project has been uploaded to the github page:
 
