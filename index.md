@@ -4,6 +4,7 @@ October 1st: The proof of payment for the smart watch project will be posted her
                                     ![Screenshot](Images/HEARTRATE.png)
                                                 ![Screenshot](Images/OLED.png)
                                                             ![Screenshot](Images/PEDOMETER.png)
+                                                                        ![Screenshot](Images/tp4056hm10.png)
                                                             
                                                                                                                      
                                                                         
