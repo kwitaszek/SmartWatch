@@ -1,3 +1,16 @@
+October 1st: The proof of payment for the smart watch project will be posted here:
+            ![Screenshot](Images/ARDUINO.png)
+                        ![Screenshot](Images/BATTERY.png)
+                                    ![Screenshot](Images/HEARTRATE.png)
+                                                ![Screenshot](Images/OLED.png)
+                                                            ![Screenshot](Images/PEDOMETER.png)
+                                                            
+                                                                                                                     
+                                                                        
+
+
+
+
 September 25th: Today, I have met with our collaborator for the project and have finalized the parts that will be used in the                 project. The following list contains those parts and include their pricing:
   
                 https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/SmartWatchBugdet.xlsx
