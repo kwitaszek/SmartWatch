@@ -23,5 +23,5 @@ September 17th: The Estimate Project Schedule for the Smart Watch project has be
 September 10th: The proposal and the content for the Smart Watch project were both uploaded to github page:
               
             https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/ProjectProposal_TechBoys.pdf
-
+            
 September 3rd: Repository created
