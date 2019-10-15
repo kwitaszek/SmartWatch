@@ -1,4 +1,4 @@
-October 15th: The PCB was designed and submitted in class:
+October 15th: The PCB was designed and presented to the instructor in class:
             ![Screenshot](Images/PCB.png)
                         ![Screenshot](Images/Breadboard.png)
                                     ![Screenshot](Images/Schematic.png)
