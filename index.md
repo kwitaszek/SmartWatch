@@ -2,6 +2,8 @@ October 15th: The PCB was designed and presented to the instructor in class:
             ![Screenshot](Images/PCB.png)
                         ![Screenshot](Images/Breadboard.png)
                                     ![Screenshot](Images/Schematic.png)
+             The fritzting file link is here: 
+                        https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/SmartWatch_PCB.fzz
 
 October 1st: The proof of payment for the smart watch project will be posted here:
             ![Screenshot](Images/ARDUINO.png)
