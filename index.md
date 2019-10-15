@@ -1,3 +1,8 @@
+October 15th: The PCB was designed and submitted in class:
+            ![Screenshot](Images/PCB.png)
+                        ![Screenshot](Images/Breadboard.png)
+                                    ![Screenshot](Images/Schematic.png)
+
 October 1st: The proof of payment for the smart watch project will be posted here:
             ![Screenshot](Images/ARDUINO.png)
                         ![Screenshot](Images/BATTERY.png)
