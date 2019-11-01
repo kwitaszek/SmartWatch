@@ -8,6 +8,8 @@ Next, I plugged in my Arduino to the PC using an TTL to USB Adapter to check if 
 
 Looking at the screenshot above, I was able to get values when i connected my I2C pins to the Arduino. If i disconnect the pins, the output will be -1 on all 3 axis as shown below.
             ![Screenshot](Images/no_sensor.png)
+ After examining the code that came with the sensor, I was able to set up a counter that works around a threshold that if the value is surpassed, the steps variable will increment by 1. At the time of writing, I am still searching for the perfect threshold so that the step variable will increment at a reasonable motion:
+            ![Screenshot](Images/working_step.png)
 I also took the liberty of setting up the bluetooth module of my arduino
             ![Screenshot](Images/bluetooth_led.jpg)
                         ![Screenshot](Images/Bluetooth_confirmation.jpg)
