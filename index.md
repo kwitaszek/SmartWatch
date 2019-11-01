@@ -18,6 +18,7 @@ A couple of notes to mention:
 30th
             ![Screenshot](Images/PCB_redesigned.png)
 3. I made additional purchases for our projects that are female header pins that will be used for soldering on my PCB.
+
 4.The button was removed from the PCB as it will be used when we will be combing the other sensor my partner is working on.
 
 October 15th: The PCB was designed and presented to the instructor in class:
