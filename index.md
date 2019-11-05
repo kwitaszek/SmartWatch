@@ -1,3 +1,9 @@
+Nov 5th(Week 9 Blog entry Report):The PCB was soldered on Friday, Nov 1st:
+            ![Screenshot](Images/pcbsoldered.jpg)
+                        ![Screenshot](Images/pcbsoldered_bottom.jpg)
+             
+During the class on Nov 5th, I will be using a DVM to check continuity between the pins on the soldered PCB/
+
 October 31th(Week 8 Blog Entry Report): During the week in class, I took my time carefully and started soldering pins onto the Arduino and the KX023 pedometer sensor:
             ![Screenshot](Images/soldered_board.jpg)
                         ![Screenshot](Images/sensor.jpg)
