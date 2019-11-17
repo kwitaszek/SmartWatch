@@ -1,8 +1,21 @@
+Nov 12th(Week 10 Progress Report): As shown in class, I wass successfully able to display my sensor readings on my OLED screen.
+            ![Screenshot](Images/working_PCB.jpg)
+Budget: Had to purchase a new bluetooth module HM-18 as my previous chip got damaged while I was working on it.
+
+Schedule: I should be able to keep up with the schedule but on some weeks I might have to go to the Thursday class due to time constraints on the weekend and a filled schedule on Monday.
+
+List of things that still need work on:
+1. Making the acrylic case for my PCB which is due on Week 11.
+2. Making the PCB run from an external power source. Up until now, I was able to run everything using power from my USB TTL Adapter which was used to connect my arduino to my PC. When I connect my external power source, it doesnt work properly as it shows random pixels on the screen, I hope to have this fixed hopefully by next week.
+3. Start work with the Bluetooth module so that I can send my sensor data to the app that's being developed in the software class.
+4. Start work on the presentation slides and start the write up of the BUILD instructions.
+
 Nov 5th(Week 9 Blog entry Report):The PCB was soldered on Friday, Nov 1st:
             ![Screenshot](Images/pcbsoldered.jpg)
                         ![Screenshot](Images/pcbsoldered_bottom.jpg)
              
-During the class on Nov 5th, I will be using a DVM to check continuity between the pins on the soldered PCB/
+During the class on Nov 5th, I will be using a DVM to check continuity between the pins on the soldered PCB.
+Tests were made during the class and I was successful with my connections on my board.
 
 October 31th(Week 8 Blog Entry Report): During the week in class, I took my time carefully and started soldering pins onto the Arduino and the KX023 pedometer sensor:
             ![Screenshot](Images/soldered_board.jpg)
