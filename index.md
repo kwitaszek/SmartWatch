@@ -1,3 +1,9 @@
+Nov 21st(Week 11 Enclosure due): As shown below, I was able to make my enclosure for my PCB. It was made in the prototype lab using clear acrylic.
+            ![Screenshot](Images/enclosure.jpg)
+            
+The link for the design file is available here: 
+            https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/Pedometer%20case.cdr
+
 Nov 12th(Week 10 Progress Report): As shown in class, I wass successfully able to display my sensor readings on my OLED screen.
             ![Screenshot](Images/working_PCB.jpg)
 Budget: Had to purchase a new bluetooth module HM-18 as my previous chip got damaged while I was working on it.
