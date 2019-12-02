@@ -9,7 +9,7 @@ Table of Contents
 
 3.[Total time for project](https://github.com/kwitaszek/SmartWatch#total-time-for-project)
 
-4.[Assembly](https://github.com/kwitaszek/SmartWatch#assembly)
+4.[Breadboard assembly](https://github.com/kwitaszek/SmartWatch#breadboard-assembly)
 
 5.[Soldering the PCB]
 
@@ -41,7 +41,7 @@ The above list includes what you need to make this project possible. All of thes
 The above Gantt chart represents the schedule I used to schedule the steps i needed to work on the project.
 COnsidering the user already pruchased and obtained all the items , the total time for making the project should be roughly around 10 hours .
 
-### Assembly
+### Breadboard assembly
 
 As the first step in any hardware project, it is wise to start with setting up a prototype on a breadboard. This is required as we need to check if the parts work properly before we continue with the project. Please assemble the parts on the breadboard as shown below:
 
