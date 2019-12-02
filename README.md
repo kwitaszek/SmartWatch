@@ -1,6 +1,5 @@
 # Pedometer build instructions
 
----------------------------------------------
 
 Table of Contents
 
