@@ -4,7 +4,7 @@
 
 Table of Contents
 
-1.[Introductions](github.com/kwitaszek/SmartWatch#introduction)
+1.[Introductions](https://github.com/kwitaszek/SmartWatch#introduction)
 
 2.[Items to purchase and Budget]
 
