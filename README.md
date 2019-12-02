@@ -6,11 +6,7 @@ Table of Contents
 
 1.[Introduction](https://github.com/kwitaszek/SmartWatch#introduction)
 
-2.[Items to purchase]
-
-3.[Time for assembly]
-
-4.[PCB and soldering steps]
+2.[Items to purchase](https://github.com/kwitaszek/SmartWatch#items-to-purchase)
 
 5.[Power Up]
 
