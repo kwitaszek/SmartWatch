@@ -10,7 +10,7 @@ Table of Contents
 
 3.[Total time for project](https://github.com/kwitaszek/SmartWatch#total-time-for-project)
 
-4.[Assembly]
+4.[Assembly](https://github.com/kwitaszek/SmartWatch#assembly)
 
 5.[Soldering the PCB]
 
