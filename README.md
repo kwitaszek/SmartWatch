@@ -6,9 +6,9 @@ Table of Contents
 
 1.[Introduction](https://github.com/kwitaszek/SmartWatch#introduction)
 
-2.[Items to purchase](https://github.com/kwitaszek/SmartWatch#items-to-purchase)
+2.[Items to purchase](https://github.com/kwitaszek/SmartWatch#introduction)
 
-3.[Total time for project]
+3.[Total time for project](https://github.com/kwitaszek/SmartWatch#total-time-for-project)
 
 4.[Assembly]
 
@@ -19,6 +19,7 @@ Table of Contents
 6.[Unit Testing]
 
 7.[Production Testing]
+
 
 ### Introduction
 
