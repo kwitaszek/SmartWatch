@@ -24,7 +24,7 @@ Hello. My name is Kevin Witaszek and I am the author for the KX-023 Pedometer Se
 
 ### Items to purchase 
 
-[Screenshot](Images/Budget.jpg)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Budget.png)
 
 
 
