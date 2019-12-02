@@ -20,4 +20,8 @@ Table of Contents
 
 ### Introduction
 
+Hello. My name is Kevin Witaszek and I am the author for the KX-023 Pedometer Sensor module build instructions for the Smart Watch project. The idea behind this project is to intergrate the pedometer sensor with an Arduino Pro Mini board. Following the instructions below, you will create your own pedometer project which you can use for your own purposes.
+
+
+
 
