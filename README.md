@@ -39,6 +39,16 @@ The above list includes what you need to make this project possible. All of thes
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Schedule.png)
 
+The above Gantt chart represents the schedule I used to schedule the steps i needed to work on the project.
+COnsidering the user already pruchased and obtained all the items , the total time for making the project should be roughly around 10 hours .
+
+### Assembly
+
+As the first step in any hardware project, it is wise to start with setting up a prototype on a breadboard. This is required as we need to check if the parts work properly before we continue with the project. Please assemble the parts on the breadboard as shown below:
+
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
 
 
 
