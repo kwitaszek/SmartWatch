@@ -9,19 +9,19 @@ Table of Contents
 
 3.[Total time for project](https://github.com/kwitaszek/SmartWatch#total-time-for-project)
 
-4.[Soldering the Arduino and the other parts]()
+4.[Soldering the Arduino and the other parts](https://github.com/kwitaszek/SmartWatch#soldering-the-arduino-and-other-parts)
 
-5.[Flashing the software on the Arduino]()
+5.[Flashing the software on the Arduino](https://github.com/kwitaszek/SmartWatch#flashing-the-software-on-the-arduino)
 
 6.[Breadboard assembly](https://github.com/kwitaszek/SmartWatch#breadboard-assembly)
 
-7.[Soldering the PCB]
+7.[Soldering the PCB]()
 
-8.[Power Up]
+8.[Power Up]()
 
-9.[Unit Testing]
+9.[Unit Testing]()
 
-10.[Production Testing]
+10.[Production Testing]()
 
 
 ### Introduction
