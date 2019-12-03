@@ -15,13 +15,13 @@ Table of Contents
 
 6.[Breadboard assembly](https://github.com/kwitaszek/SmartWatch#breadboard-assembly)
 
-7.[Soldering the PCB](https://github.com/kwitaszek/SmartWatch#soldering-the-pcb)
+7.[Power Up](https://github.com/kwitaszek/SmartWatch#power-up)
 
-8.[Power Up](https://github.com/kwitaszek/SmartWatch#power-up)
+8.[Soldering the PCB](https://github.com/kwitaszek/SmartWatch#soldering-the-pcb)
 
-9.[Unit Testing]()
+9.[Unit Testing](https://github.com/kwitaszek/SmartWatch#unit-testing)
 
-10.[Production Testing]()
+10.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
 
 
 ### Introduction
