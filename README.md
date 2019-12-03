@@ -15,7 +15,7 @@ Table of Contents
 
 6.[Breadboard assembly](https://github.com/kwitaszek/SmartWatch#breadboard-assembly)
 
-7.[Soldering the PCB]()
+7.[Soldering the PCB](https://github.com/kwitaszek/SmartWatch#soldering-the-pcb)
 
 8.[Power Up](https://github.com/kwitaszek/SmartWatch#power-up)
 
@@ -160,6 +160,10 @@ At this stage, you shoudl be able to pwoer up the breaboard curcuit. you are fre
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
 
 ### Soldering the PCB
+
+### Unit testing
+
+### Production testing
 
 
 
