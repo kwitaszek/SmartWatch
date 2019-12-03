@@ -63,7 +63,7 @@ Get a soldering kit. If you are a student at Humber, you can rent a kit at the H
 
 Step 2: 
 
-Prepare male header pins for the board. You will require 32 pins overall. 12 on both sides, 6 on top and two in the middle.
+Prepare male header pins for the board. You will require 32 pins overall. 12 on both sides, 6 on top and two in the middle. For the sensor Oledn you will need 4 each and the usb hcarger will reuiqre 2 pins.
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
 
@@ -155,9 +155,11 @@ As the first step in any hardware project, it is wise to start with setting up a
 
 ### Power-Up
 
-At this stage, you shoudl be able to pwoer up the breaboard curcuit. you are fre to use the adapter or the usb chager as the power source. After the booting,the oled screen shuld power up , disaplying hr screen below:
+At this stage, you shoudl be able to pwoer up the breaboard curcuit. you are fre to use the adapter or the usb chager as the power source. After the booting,the oled screen shuld power up , disaplying the screen as shown below:
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
+### Soldering the PCB
 
 
 
