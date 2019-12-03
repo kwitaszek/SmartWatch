@@ -4,7 +4,7 @@ Table of Contents
 
 1.[Introduction](https://github.com/kwitaszek/SmartWatch#introduction)
 
-2.[Items to purchase](https://github.com/kwitaszek/SmartWatch#introduction)
+2.[Items to purchase](https://github.com/kwitaszek/SmartWatch#items-to-purchase)
 
 3.[Total time for project](https://github.com/kwitaszek/SmartWatch#total-time-for-project)
 
