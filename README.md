@@ -17,11 +17,9 @@ Table of Contents
 
 7.[Power Up](https://github.com/kwitaszek/SmartWatch#power-up)
 
-8.[Soldering the PCB](https://github.com/kwitaszek/SmartWatch#soldering-the-pcb)
+8.[Unit Testing](https://github.com/kwitaszek/SmartWatch#unit-testing)
 
-9.[Unit Testing](https://github.com/kwitaszek/SmartWatch#unit-testing)
-
-10.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
+9.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
 
 
 ### Introduction
@@ -46,7 +44,7 @@ The above Gantt chart represents the schedule I used to schedule the steps i nee
 Considering the user already pruchased and obtained all the items , the total time for making the project should be roughly around 10 hours .
 
 
-### Soldering the Arduino and other parts
+### Soldering the Arduino, PCB and other parts
 
 Prerequitsites:
 
@@ -158,8 +156,6 @@ As the first step in any hardware project, it is wise to start with setting up a
 At this stage, you shoudl be able to pwoer up the breaboard curcuit. you are fre to use the adapter or the usb chager as the power source. After the booting,the oled screen shuld power up , disaplying the screen as shown below:
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
-
-### Soldering the PCB
 
 ### Unit testing
 
