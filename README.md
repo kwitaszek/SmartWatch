@@ -110,9 +110,41 @@ Congrats if this is yourr first time sodlering. After you are done, make sure to
 
 Now that you ahve soldered the ardunio you are now able to put software the on the baord.
 
+Carefully connect the cable between the adapter and the board.
+
+Adapter:  Arduino:
+
+3.3V   --> VCC
+
+GND    --> GND
+
+TXD    --> RSX
+
+RSX    --> TXD
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
+Making sure the connections are correct, plug in the adapter into your PC. Once connected, your adruino should be beeping bleu meaning the conenctionw as succesful.
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
+Next, you will need an Arduino IDE. You can download the official IDE from the official Ardunio website.
+
+Once installed you can use the code below and put it in the IDE
+
 Download the code from the following link:
 https://github.com/kwitaszek/SmartWatch/blob/master/Firmware/PedometerCode.ino
 This code is made in C and is made specifally for the ardunio pro mini and the sensor attached.
+
+This code will require the user to import libraires. The follwoing links will provide the user with the libraires. Download the zip files and in the IDE you can import them.
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
+YOu will also need to set your tools. THe devie willbe the Arduni pro mini 3.3v 8 Mhz and tset the COM the one associated th the USB adapter.
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
+Once the above steps are complete, compile and the code should flash onto theh baord.
 
 ### Breadboard assembly
 
@@ -120,6 +152,14 @@ As the first step in any hardware project, it is wise to start with setting up a
 
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
+### Power-Up
+
+At this stage, you shoudl be able to pwoer up the breaboard curcuit. you are fre to use the adapter or the usb chager as the power source. After the booting,the oled screen shuld power up , disaplying hr screen below:
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
+
 
 
 
