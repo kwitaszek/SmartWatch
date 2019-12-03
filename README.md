@@ -17,7 +17,7 @@ Table of Contents
 
 7.[Soldering the PCB]()
 
-8.[Power Up]()
+8.[Power Up](https://github.com/kwitaszek/SmartWatch#power-up)
 
 9.[Unit Testing]()
 
