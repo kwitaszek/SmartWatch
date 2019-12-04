@@ -129,6 +129,7 @@ Once installed, you can use the code below and put it in the IDE
 
 Download the code from the following link:
 https://github.com/kwitaszek/SmartWatch/blob/master/Firmware/PedometerCode.ino
+
 This code was made in C and is made specifally for the Arduino Pro Mini and the components.
 
 This code will require the user to import libraries. The follwoing links will provide the user with the libraires required. Download the zip files and in the IDE you can import them following the below instruction:
@@ -154,13 +155,19 @@ As the first step in any hardware project, it is wise to start with setting up a
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
 
+This is what it should look on an actual breadboard:
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
 ### Power-Up
 
-At this stage, you shoudl be able to power up the breadboard circuit. you are free to use the adapter or the usb charger as the power source. After the booting,the OLED screen should power up, displaying the screen as shown below:
+At this stage, you should be able to power up the breadboard circuit. you are free to use the USB adapter or the USB charger as the power source. After the booting,the OLED screen should power up, displaying the screen as shown below:
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
 
 ### Unit testing
+
+Reaching this step confirms you were successful with the previous steps. To check if board is working properly, try shaking a board a couple of times. This will increment the step counter thats being displayed on the board.
 
 ### Production testing
 
