@@ -107,15 +107,15 @@ Now that you have soldered the pins on the Ardunio you are now able to put softw
 
 Carefully connect the cable between the adapter and the board(the top 6 pins).
 
-Adapter:  Arduino:
+Adapter     Arduino:
 
-3.3V   --> VCC
+3.3V  -->   VCC
 
-GND    --> GND
+GND   -->   GND
 
-TXD    --> RSX
+TXD   -->   RSX
 
-RSX    --> TXD
+RSX   -->   TXD
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
 
