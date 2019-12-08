@@ -58,17 +58,17 @@ Get a soldering kit. If you are a student at Humber, you can rent a kit at the H
 
 Prepare male header pins for the board. You will require 42 pins overall. For the Arduino, there are 12 on both sides, 6 on top and two in the middle. For the sensor and OLED screen, you will need 4 each and the USB charger will require 2 pins.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/male_header_pins.png)
 
 #### Step 3:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/sponge.png)
 
 Take the sponge off the kit and soak it in water.
 
 #### Step 4:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/preheat.png)
 
 Turn on the soldering kit and wait for the soldering iron to heat up. The proper temperature for soldering should be roughly 660 F.
 
@@ -76,7 +76,7 @@ Turn on the soldering kit and wait for the soldering iron to heat up. The proper
 
 Check your tip of your soldering iron. If it has a melted solder on it, it is ready for soldering. If not, tin the tip with some iron on the tip, soak it in the spondge and put the iron in steel wool to get rid of the excess solder.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/tip.png)
 
 #### Step 6: 
 
