@@ -88,16 +88,16 @@ Set the arduino and the pins on the breadboard so that the pins are stable for s
 
 Prepare your solder in one hand and soldering iron in the other. Place your iron next to the area you want to solder in. Place the solder onto the tinned area and let the solder sink into the soldered area. This process should be 2-3 seconds for every hole.After finishing this should be the finished work:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/arduino_soldered(read).png)
 
 #### Step 8 Soldering the components:
 
 Repeat step 7 for the OLED screen, the sensor and the USB charger. All the pins on each component will face downward.
 After you done this is how the finsihed work should look like.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/USB_charger.png)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/OLED_soldered.png)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/sensor_soldered.png)
 
 Congrats if this is your first time soldering. After you are done, make sure to turn off the the iron in case you forget.
 
@@ -117,7 +117,7 @@ TXD   -->   RSX
 
 RSX   -->   TXD
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/adapter_connections.png)
 
 Making sure the connections are correct, plug in the adapter into your PC. Once connected, your Arduino should be flashing blue meaning the connections are succesful.
 
@@ -144,9 +144,9 @@ Tools --> Processor:Atmega328P(3.3V 8Mhz).
 
 Tools --> Port:(Windows)COM , (Mac)UsbtoUART.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/tools.png)
 
-Once the above steps are complete, compile and the code should flash onto theh board.Now there was an issue with uploading the code unto the board. To avoid this issue, as soon as the prompt says Uploading.... Please press the reset button on the board. This will make the board available for code.
+Once the above steps are complete, compile and the code should flash onto the board.Now there was an issue with uploading the code unto the board. To avoid this issue, as soon as the prompt says Uploading.... Please press the reset button on the board. This will make the board available for code.
 
 
 ## Breadboard assembly
