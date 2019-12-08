@@ -172,7 +172,7 @@ https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/Pedometer_PCB.
 
 To start, please prepare female socket pins that we will be soldering onto the PCB.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/female_socket_pins.png)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/female_header_pins.png)
 
 You will need 36 units for one PCB. 2 x 14 sockets , 1 x 2 sockets, 2 x 4 sockets and 2 x 1 sockets. Please refer to the image below to see how to set up the sockets on the board.
 
