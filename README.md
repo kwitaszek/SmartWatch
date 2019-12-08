@@ -193,7 +193,7 @@ Place the components as shown in the image below. You can either power up the bo
 
 Reaching this step confirms you were successful with the previous steps. To check if board is working properly, try shaking a board a couple of times. This will increment the step counter thats being displayed on the board.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/steps_incremented.png)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/steps_8.png)
 
 ## Production testing
 
