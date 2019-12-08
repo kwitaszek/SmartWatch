@@ -24,6 +24,8 @@
 
 Hello. My name is Kevin Witaszek and I am the author for the KX-023 Pedometer Sensor module build instructions for the Smart Watch project. The idea behind this project is to intergrate the pedometer sensor with an Arduino Pro Mini board. This sensor will work alongside a heart rate sensor module to build a smart watch which will be developed in the next semester with my partner Antonio Zuleta. Following the instructions below, you will create your own pedometer project which you can use for your own purposes. Let's begin.
 
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+
 ## Items to purchase 
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Budget.png)
@@ -42,11 +44,6 @@ Considering the user already purchased and obtained all the items, the total tim
 #### Prerequitsites:
 
 Before we can start work on the project, we need to solder male header pins onto the Arduino and the other componennts. The position of the pins on the Arduino will be positioned as shown below. The pins on the sides have to be pointed downwards whereas the top pins need to be pointed upwards so that we can attach the USB to TTL adapter to our board. For the sensor,OLED screen and USB charger, the pins will be pointed downwards.
-
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
 
 #### Step 1:
 
@@ -80,9 +77,9 @@ Check your tip of your soldering iron. If it has a melted solder on it, it is re
 
 #### Step 6: 
 
-Set the arduino and the pins on the breadboard so that the pins are stable for soldering.
+Set the arduino and the pins on the breadboard so that the pins are stable for soldering. I ran out of header pins but you should set more pins on the other side of the arduino so that board is stable for soldering.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/setting_pins.png)
 
 #### Step 7 Soldering the Arduino:
 
