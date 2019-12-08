@@ -50,7 +50,7 @@ Before we can start work on the project, we need to solder male header pins onto
 
 #### Step 1:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/solder_kit.png)
 
 Get a soldering kit. If you are a student at Humber, you can rent a kit at the Humber Parts Crib and solder in areas where you have access to a fume extractor or if you have access to the Prototype Lab, you can do your work there.
 
