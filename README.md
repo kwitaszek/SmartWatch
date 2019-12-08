@@ -118,8 +118,6 @@ RSX   -->   TXD
 
 Making sure the connections are correct, plug in the adapter into your PC. Once connected, your Arduino should be flashing blue meaning the connections are succesful.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
-
 Next, you will need an Arduino IDE. You can download the official IDE from the official Arduino website.
 
 Once installed, you can use the code below and put it in the IDE
