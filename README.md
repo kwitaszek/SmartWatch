@@ -26,7 +26,7 @@
 
 12.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
 
-13.[Reproducible?]
+13.[Reproducible?](https://github.com/kwitaszek/SmartWatch#reproducible)
 
 ## Introduction
 
@@ -219,9 +219,3 @@ The board would have two LEDs: a green and red. If the green LED lights up, it m
 ## Reproducible?
 
 Following the steps above, I am certain that you will be able to to reproduce the project I was able to complete.
-
-
-
-
-
-
