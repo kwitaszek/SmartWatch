@@ -8,7 +8,7 @@
 
 3.[Total time for project](https://github.com/kwitaszek/SmartWatch#total-time-for-project)
 
-4.[Soldering the Arduino and the other parts](https://github.com/kwitaszek/SmartWatch#soldering-the-arduino-and-other-parts)
+4.[Soldering the Arduino and other parts](https://github.com/kwitaszek/SmartWatch#soldering-the-arduino-and-other-parts)
 
 5.[Flashing the software on the Arduino](https://github.com/kwitaszek/SmartWatch#flashing-the-software-on-the-arduino)
 
