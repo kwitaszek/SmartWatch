@@ -8,7 +8,7 @@
 
 3.[Total time for project](https://github.com/kwitaszek/SmartWatch#total-time-for-project)
 
-4.[Soldering the Arduino and the other parts](https://github.com/kwitaszek/SmartWatch#soldering-the-arduino-pcb-and-other-parts)
+4.[Soldering the Arduino and the other parts](https://github.com/kwitaszek/SmartWatch#soldering-the-arduino-and-other-parts)
 
 5.[Flashing the software on the Arduino](https://github.com/kwitaszek/SmartWatch#flashing-the-software-on-the-arduino)
 
@@ -47,7 +47,7 @@ The above list includes what you need to make this project possible. All of thes
 The above Gantt chart represents the schedule I used to schedule the steps I needed to work on during the project.
 Considering the user already purchased and obtained all the items, the total time for making the project should be roughly around 10 hours.
 
-## Soldering the Arduino, PCB and other parts
+## Soldering the Arduino and other parts
 
 #### Prerequitsites:
 
@@ -133,9 +133,12 @@ Once installed, you can use the code below and put it in the IDE
 Download the code from the following link:
 https://github.com/kwitaszek/SmartWatch/blob/master/Firmware/PedometerCode.ino
 
-This code was made in C and is made specifally for the Arduino Pro Mini and the components.
+This code was made in C++ and is made specifally for the Arduino Pro Mini and the components.
 
-This code will require the user to import libraries. The follwoing links will provide the user with the libraires required. Download the zip files and in the IDE you can import them following the below instruction:
+This code will require the user to import libraries. The following links will provide the user with the libraires required. Download the zip files and in the IDE you can import them following the below instruction:
+
+https://github.com/adafruit/Adafruit_SSD1306
+https://github.com/adafruit/Adafruit-GFX-Library
 
 Sketch --> Include library --> Add .ZIP Library
 
