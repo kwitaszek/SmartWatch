@@ -161,9 +161,16 @@ As the first step in any hardware project, it is wise to start with setting up a
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Breadboard(read:FZZ).png)
 
+To summarize the connections:
+ -Have all GNDs connected
+ -Using the USB to TTL adapter as the power source will allow you to connect all VCCs without issue
+ -Connect both SCAs and SCLs on to the board as they provide the I2C connection for the sensor and screen
+
 This is what it should look on an actual breadboard:
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Breadboard(real).png)
+
+You will need to be a bit flexible with the connections as you can't plug in the arduino to the breadboard due to the pins in the middle so female header sockets cables are your best friend here.
 
 ## Power-Up Breadboard
 
