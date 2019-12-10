@@ -22,7 +22,11 @@
 
 10.[Unit Testing](https://github.com/kwitaszek/SmartWatch#unit-testing)
 
-11.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
+11.[Enclosure](https://github.com/kwitaszek/SmartWatch#enclosure)
+
+12.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
+
+13.[Reproducible?]
 
 ## Introduction
 
@@ -184,9 +188,9 @@ For this soldering process, you will be soldering on the bottom. Keep the PCB in
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/PCB_Bottom.png)
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/)
-
 After you are done, it will be wise to do continuity checks between pins. This is important as sometimes PCB production produces defective units. Using the continuity option on a Digital Multimeter, you can check for any potential shorts.
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/)
 
 ## Power up PCB
 
@@ -211,6 +215,10 @@ Below you will find the link to the enclosure file which was made in Corel Draw 
 
 If there were to be massive production done for the project, I would suggest making a circut tester that would check connections between the pins. It would enter into the the board through the female header pins using male header pins.
 The board would have two LEDs: a green and red. If the green LED lights up, it means there are no shorts between the ground and power.
+
+## Reproducible?
+
+Following the steps above, I am certain that you will be able to to reproduce the project I was able to complete.
 
 
 
