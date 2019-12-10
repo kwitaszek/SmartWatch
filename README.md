@@ -14,7 +14,7 @@
 
 6.[Breadboard assembly](https://github.com/kwitaszek/SmartWatch#breadboard-assembly)
 
-7.[Power Up](https://github.com/kwitaszek/SmartWatch#power-up)
+7.[Power Up](https://github.com/kwitaszek/SmartWatch#power-up-breadboard)
 
 8.[Soldering the PCB and its components](https://github.com/kwitaszek/SmartWatch#soldering-the-pcb-and-its-components)
 
