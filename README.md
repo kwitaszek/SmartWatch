@@ -190,7 +190,7 @@ For this soldering process, you will be soldering on the bottom. Keep the PCB in
 
 After you are done, it will be wise to do continuity checks between pins. This is important as sometimes PCB production produces defective units. Using the continuity option on a Digital Multimeter, you can check for any potential shorts.
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/DVM.png)
 
 ## Power up PCB
 
@@ -209,7 +209,9 @@ Reaching this step confirms you were successful with the previous steps. To chec
 
 Below you will find the link to the enclosure file which was made in Corel Draw Graphics suite. If you are a Humber student or employee, you can send the file to the Prototype Lab at North Campus which would laser cut the project with clear acrylic. After obtanining the top and bottom layers, you can assemble the enclosure using standoff screws which can be obtained from the parts crib or from amazon. The finished project will be as shown below:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/)
+  https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/Pedometer%20case.cdr
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/enclosure(read).png)
 
 ## Production testing
 
