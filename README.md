@@ -197,6 +197,8 @@ Reaching this step confirms you were successful with the previous steps. To chec
 
 ## Production testing
 
+If there were to be massive production done for the project, I would suggest making a circut tester that would check connections between the pins.
+
 
 
 
