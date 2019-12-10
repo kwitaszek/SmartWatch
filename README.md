@@ -166,7 +166,7 @@ This is what it should look on an actual breadboard:
 
 At this stage, you should be able to power up the breadboard circuit. you are free to use the USB adapter or the USB charger as the power source. After the booting,the OLED screen should power up, displaying the screen as shown below:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Breadboard(real).png)
 
 ## Soldering the PCB
 
