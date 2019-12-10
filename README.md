@@ -18,9 +18,11 @@
 
 8.[Soldering the PCB and its components](https://github.com/kwitaszek/SmartWatch#soldering-the-pcb-and-its-components)
 
-9.[Unit Testing](https://github.com/kwitaszek/SmartWatch#unit-testing)
+9.[Power Up PCB](https://github.com/kwitaszek/SmartWatch#power-up-pcb)
 
-10.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
+10.[Unit Testing](https://github.com/kwitaszek/SmartWatch#unit-testing)
+
+11.[Production Testing](https://github.com/kwitaszek/SmartWatch#production-testing)
 
 ## Introduction
 
@@ -182,6 +184,10 @@ For this soldering process, you will be soldering on the bottom. Keep the PCB in
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/PCB_Bottom.png)
 
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/)
+
+After you are done, it will be wise to do continuity checks between pins. This is important as sometimes PCB production produces defective units. Using the continuity option on a Digital Multimeter, you can check for any potential shorts.
+
 ## Power up PCB
 
 Place the components as shown in the image below. You can either power up the board by using the USB charger or the USB adapter used to put code into the board. Once plugged in,your OLED screen should boot up with the dsiplayed string: 
@@ -195,9 +201,16 @@ Reaching this step confirms you were successful with the previous steps. To chec
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/steps_8.png)
 
+## Enclosure
+
+Below you will find the link to the enclosure file which was made in Corel Draw Graphics suite. If you are a Humber student or employee, you can send the file to the Prototype Lab at North Campus which would laser cut the project with clear acrylic. After obtanining the top and bottom layers, you can assemble the enclosure using standoff screws which can be obtained from the parts crib or from amazon. The finished project will be as shown below:
+
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/)
+
 ## Production testing
 
-If there were to be massive production done for the project, I would suggest making a circut tester that would check connections between the pins.
+If there were to be massive production done for the project, I would suggest making a circut tester that would check connections between the pins. It would enter into the the board through the female header pins using male header pins.
+The board would have two LEDs: a green and red. If the green LED lights up, it means there are no shorts between the ground and power.
 
 
 
