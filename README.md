@@ -138,6 +138,7 @@ This code was made in C++ and is made specifally for the Arduino Pro Mini and th
 This code will require the user to import libraries. The following links will provide the user with the libraires required. Download the zip files and in the IDE you can import them following the below instruction:
 
 https://github.com/adafruit/Adafruit_SSD1306
+
 https://github.com/adafruit/Adafruit-GFX-Library
 
 Sketch --> Include library --> Add .ZIP Library
