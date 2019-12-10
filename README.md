@@ -156,11 +156,11 @@ Once the above steps are complete, compile and the code should flash onto the bo
 
 As the first step in any hardware project, it is wise to start with setting up a prototype on a breadboard. This is required as we need to check if the parts work properly before we continue with the project. Please assemble the parts on the breadboard as shown below:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Breadboard(read:FZZ).png)
 
 This is what it should look on an actual breadboard:
 
-![](https://github.com/kwitaszek/SmartWatch/blob/master/Images)
+![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Breadboard(real).png)
 
 ## Power-Up Breadboard
 
