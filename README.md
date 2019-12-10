@@ -38,7 +38,7 @@ Hello. My name is Kevin Witaszek and I am the author for the KX-023 Pedometer Se
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Budget.png)
 
-The above list includes what you need to make this project possible. All of these parts(except the sensor) are available on Amazon and if you have Amazon Prime, you can save on shipping to make the price go down. The total for me was 112 CAD dollars. The sensor can be obtained from eletronic stores or websites from China. Please be aware that shipping from China can take long or short so please try to find the best deal possible. The prices for the PCB and laser cutting might differ based on where you get it done. If you are a Humber Student, you havee free access to the services in the Prototype Lab. 
+The above list includes what you need to make this project possible. All of these parts(except the sensor) are available on Amazon and if you have Amazon Prime, you can save on shipping to make the price go down. The total for me was 112 CAD dollars. The sensor can be obtained from eletronic stores or websites from China. Please be aware that shipping from China can take long or short so please try to find the best deal possible. The prices for the PCB and laser cutting might differ based on where you get it done. If you are a Humber Student, you havee free access to the services in the Prototype Lab.
 
 ## Total time for project
 
@@ -79,7 +79,7 @@ Turn on the soldering kit and wait for the soldering iron to heat up. The proper
 
 #### Step 5:
 
-Check your tip of your soldering iron. If it has a melted solder on it, it is ready for soldering. If not, tin the tip with some iron on the tip, soak it in the spondge and put the iron in steel wool to get rid of the excess solder.
+Check your tip of your soldering iron. If it has a melted solder on it, it is ready for soldering. If not, tin the tip with some iron, soak it in the spondge and put the iron in steel wool to get rid of the excess solder.
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/tip.png)
 
@@ -104,7 +104,7 @@ After you done this is how the finsihed work should look like.
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/OLED_soldered.png)
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/sensor_soldered.png)
 
-Congrats if this is your first time soldering. After you are done, make sure to turn off the the iron in case you forget.
+Congratulations if this is your first time soldering. After you are done, make sure to turn off the the iron in case you forget.
 
 ## Flashing the software on the Arduino
 
@@ -124,7 +124,7 @@ RSX   -->   TXD
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/adapter_connections.png)
 
-Making sure the connections are correct, plug in the adapter into your PC. Once connected, your Arduino should be flashing blue meaning the connections are succesful.
+Making sure the connections are correct, plug in the adapter into your PC. Once connected, your Arduino should be flashing blue meaning the connections are successful.
 
 Next, you will need an Arduino IDE. You can download the official IDE from the official Arduino website.
 
@@ -135,7 +135,7 @@ https://github.com/kwitaszek/SmartWatch/blob/master/Firmware/PedometerCode.ino
 
 This code was made in C++ and is made specifally for the Arduino Pro Mini and the components.
 
-This code will require the user to import libraries. The following links will provide the user with the libraires required. Download the zip files and in the IDE you can import them following the below instruction:
+This code will require the user to import libraries. The following links will provide the user with the libraires required. Download the zip files and in the IDE you can import them following the below instructions:
 
 https://github.com/adafruit/Adafruit_SSD1306
 
@@ -154,7 +154,6 @@ Tools --> Port:(Windows)COM , (Mac)UsbtoUART.
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/tools.png)
 
 Once the above steps are complete, compile and the code should flash onto the board.Now there was an issue with uploading the code unto the board. To avoid this issue, as soon as the prompt says Uploading.... Please press the reset button on the board. This will make the board available for code.
-
 
 ## Breadboard assembly
 
@@ -178,7 +177,7 @@ You will need to be a bit flexible with the connections as you can't plug in the
 
 ## Power-Up Breadboard
 
-At this stage, you should be able to power up the breadboard circuit. you are free to use the USB adapter or the USB charger as the power source. After the booting,the OLED screen should power up, displaying the screen as shown below:
+At this stage, you should be able to power up the breadboard circuit. You are free to use the USB adapter or the USB charger as the power source. After the booting,the OLED screen should power up, displaying the screen as shown below:
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/Breadboard(real).png)
 
@@ -198,7 +197,7 @@ You will need 36 units for one PCB. 2 x 14 sockets , 1 x 2 sockets, 2 x 4 socket
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/PCB_top.png).
 
-For this soldering process, you will be soldering on the bottom. Keep the PCB in place by placing the fockets on the bottom and then cafefully turning the PCB upside down.Then start soldering. The image below represents the finished work.
+For this soldering process, you will be soldering on the bottom. Keep the PCB in place by placing the sockets on the bottom and then cafefully turning the PCB upside down.Then start soldering. The image below represents the finished work.
 
 ![](https://github.com/kwitaszek/SmartWatch/blob/master/Images/PCB_Bottom.png)
 
@@ -221,7 +220,7 @@ Reaching this step confirms you were successful with the previous steps. To chec
 
 ## Enclosure
 
-Below you will find the link to the enclosure file which was made in Corel Draw Graphics suite. If you are a Humber student or employee, you can send the file to the Prototype Lab at North Campus which would laser cut the project with clear acrylic. After obtanining the top and bottom layers, you can assemble the enclosure using standoff screws which can be obtained from the parts crib or from amazon. The finished project will be as shown below:
+Below you will find the link to the enclosure file which was made in Corel Draw Graphics suite. If you are a Humber student or employee, you can send the file to the Prototype Lab at North Campus which would laser cut the project with clear acrylic. After obtanining the top and bottom layers, you can assemble the enclosure using standoff screws which can be obtained from the parts crib or from Amazon. The finished project will be as shown below:
 
   https://github.com/kwitaszek/SmartWatch/blob/master/Documentation/Pedometer%20case.cdr
 
